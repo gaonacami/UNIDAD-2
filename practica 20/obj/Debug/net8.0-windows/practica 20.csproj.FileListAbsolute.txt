@@ -1,0 +1,16 @@
+C:\Users\luis_\OneDrive\Escritorio\cosas de camilA\practicas programacion\Unidad 2\estructura selectiva\practica 20\bin\Debug\net8.0-windows\practica 20.exe
+C:\Users\luis_\OneDrive\Escritorio\cosas de camilA\practicas programacion\Unidad 2\estructura selectiva\practica 20\bin\Debug\net8.0-windows\practica 20.deps.json
+C:\Users\luis_\OneDrive\Escritorio\cosas de camilA\practicas programacion\Unidad 2\estructura selectiva\practica 20\bin\Debug\net8.0-windows\practica 20.runtimeconfig.json
+C:\Users\luis_\OneDrive\Escritorio\cosas de camilA\practicas programacion\Unidad 2\estructura selectiva\practica 20\bin\Debug\net8.0-windows\practica 20.dll
+C:\Users\luis_\OneDrive\Escritorio\cosas de camilA\practicas programacion\Unidad 2\estructura selectiva\practica 20\bin\Debug\net8.0-windows\practica 20.pdb
+C:\Users\luis_\OneDrive\Escritorio\cosas de camilA\practicas programacion\Unidad 2\estructura selectiva\practica 20\obj\Debug\net8.0-windows\practica_20.Form1.resources
+C:\Users\luis_\OneDrive\Escritorio\cosas de camilA\practicas programacion\Unidad 2\estructura selectiva\practica 20\obj\Debug\net8.0-windows\practica 20.csproj.GenerateResource.cache
+C:\Users\luis_\OneDrive\Escritorio\cosas de camilA\practicas programacion\Unidad 2\estructura selectiva\practica 20\obj\Debug\net8.0-windows\practica 20.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luis_\OneDrive\Escritorio\cosas de camilA\practicas programacion\Unidad 2\estructura selectiva\practica 20\obj\Debug\net8.0-windows\practica 20.AssemblyInfoInputs.cache
+C:\Users\luis_\OneDrive\Escritorio\cosas de camilA\practicas programacion\Unidad 2\estructura selectiva\practica 20\obj\Debug\net8.0-windows\practica 20.AssemblyInfo.cs
+C:\Users\luis_\OneDrive\Escritorio\cosas de camilA\practicas programacion\Unidad 2\estructura selectiva\practica 20\obj\Debug\net8.0-windows\practica 20.csproj.CoreCompileInputs.cache
+C:\Users\luis_\OneDrive\Escritorio\cosas de camilA\practicas programacion\Unidad 2\estructura selectiva\practica 20\obj\Debug\net8.0-windows\practica 20.dll
+C:\Users\luis_\OneDrive\Escritorio\cosas de camilA\practicas programacion\Unidad 2\estructura selectiva\practica 20\obj\Debug\net8.0-windows\refint\practica 20.dll
+C:\Users\luis_\OneDrive\Escritorio\cosas de camilA\practicas programacion\Unidad 2\estructura selectiva\practica 20\obj\Debug\net8.0-windows\practica 20.pdb
+C:\Users\luis_\OneDrive\Escritorio\cosas de camilA\practicas programacion\Unidad 2\estructura selectiva\practica 20\obj\Debug\net8.0-windows\practica 20.genruntimeconfig.cache
+C:\Users\luis_\OneDrive\Escritorio\cosas de camilA\practicas programacion\Unidad 2\estructura selectiva\practica 20\obj\Debug\net8.0-windows\ref\practica 20.dll
