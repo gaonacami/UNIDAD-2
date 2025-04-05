@@ -1,0 +1,17 @@
+C:\Users\luis_\OneDrive\Escritorio\cosas de camilA\practicas programacion\Unidad 2\instalaciones y practicas\practica #4\bin\Debug\net8.0-windows\practica #4.exe
+C:\Users\luis_\OneDrive\Escritorio\cosas de camilA\practicas programacion\Unidad 2\instalaciones y practicas\practica #4\bin\Debug\net8.0-windows\practica #4.deps.json
+C:\Users\luis_\OneDrive\Escritorio\cosas de camilA\practicas programacion\Unidad 2\instalaciones y practicas\practica #4\bin\Debug\net8.0-windows\practica #4.runtimeconfig.json
+C:\Users\luis_\OneDrive\Escritorio\cosas de camilA\practicas programacion\Unidad 2\instalaciones y practicas\practica #4\bin\Debug\net8.0-windows\practica #4.dll
+C:\Users\luis_\OneDrive\Escritorio\cosas de camilA\practicas programacion\Unidad 2\instalaciones y practicas\practica #4\bin\Debug\net8.0-windows\practica #4.pdb
+C:\Users\luis_\OneDrive\Escritorio\cosas de camilA\practicas programacion\Unidad 2\instalaciones y practicas\practica #4\obj\Debug\net8.0-windows\practica__4.Form1.resources
+C:\Users\luis_\OneDrive\Escritorio\cosas de camilA\practicas programacion\Unidad 2\instalaciones y practicas\practica #4\obj\Debug\net8.0-windows\practica #4.csproj.GenerateResource.cache
+C:\Users\luis_\OneDrive\Escritorio\cosas de camilA\practicas programacion\Unidad 2\instalaciones y practicas\practica #4\obj\Debug\net8.0-windows\practica #4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luis_\OneDrive\Escritorio\cosas de camilA\practicas programacion\Unidad 2\instalaciones y practicas\practica #4\obj\Debug\net8.0-windows\practica #4.AssemblyInfoInputs.cache
+C:\Users\luis_\OneDrive\Escritorio\cosas de camilA\practicas programacion\Unidad 2\instalaciones y practicas\practica #4\obj\Debug\net8.0-windows\practica #4.AssemblyInfo.cs
+C:\Users\luis_\OneDrive\Escritorio\cosas de camilA\practicas programacion\Unidad 2\instalaciones y practicas\practica #4\obj\Debug\net8.0-windows\practica #4.csproj.CoreCompileInputs.cache
+C:\Users\luis_\OneDrive\Escritorio\cosas de camilA\practicas programacion\Unidad 2\instalaciones y practicas\practica #4\obj\Debug\net8.0-windows\practica #4.dll
+C:\Users\luis_\OneDrive\Escritorio\cosas de camilA\practicas programacion\Unidad 2\instalaciones y practicas\practica #4\obj\Debug\net8.0-windows\refint\practica #4.dll
+C:\Users\luis_\OneDrive\Escritorio\cosas de camilA\practicas programacion\Unidad 2\instalaciones y practicas\practica #4\obj\Debug\net8.0-windows\practica #4.pdb
+C:\Users\luis_\OneDrive\Escritorio\cosas de camilA\practicas programacion\Unidad 2\instalaciones y practicas\practica #4\obj\Debug\net8.0-windows\practica #4.genruntimeconfig.cache
+C:\Users\luis_\OneDrive\Escritorio\cosas de camilA\practicas programacion\Unidad 2\instalaciones y practicas\practica #4\obj\Debug\net8.0-windows\ref\practica #4.dll
+C:\Users\luis_\OneDrive\Escritorio\cosas de camilA\practicas programacion\Unidad 2\instalaciones y practicas\practica #4\obj\Debug\net8.0-windows\practica__4.Properties.Resources.resources
