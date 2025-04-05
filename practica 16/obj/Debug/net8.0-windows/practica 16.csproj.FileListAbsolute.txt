@@ -1,0 +1,16 @@
+C:\Users\luis_\OneDrive\Escritorio\cosas de camilA\practicas programacion\Unidad 2\estructura selectiva\practica 16\bin\Debug\net8.0-windows\practica 16.exe
+C:\Users\luis_\OneDrive\Escritorio\cosas de camilA\practicas programacion\Unidad 2\estructura selectiva\practica 16\bin\Debug\net8.0-windows\practica 16.deps.json
+C:\Users\luis_\OneDrive\Escritorio\cosas de camilA\practicas programacion\Unidad 2\estructura selectiva\practica 16\bin\Debug\net8.0-windows\practica 16.runtimeconfig.json
+C:\Users\luis_\OneDrive\Escritorio\cosas de camilA\practicas programacion\Unidad 2\estructura selectiva\practica 16\bin\Debug\net8.0-windows\practica 16.dll
+C:\Users\luis_\OneDrive\Escritorio\cosas de camilA\practicas programacion\Unidad 2\estructura selectiva\practica 16\bin\Debug\net8.0-windows\practica 16.pdb
+C:\Users\luis_\OneDrive\Escritorio\cosas de camilA\practicas programacion\Unidad 2\estructura selectiva\practica 16\obj\Debug\net8.0-windows\practica_16.Form1.resources
+C:\Users\luis_\OneDrive\Escritorio\cosas de camilA\practicas programacion\Unidad 2\estructura selectiva\practica 16\obj\Debug\net8.0-windows\practica 16.csproj.GenerateResource.cache
+C:\Users\luis_\OneDrive\Escritorio\cosas de camilA\practicas programacion\Unidad 2\estructura selectiva\practica 16\obj\Debug\net8.0-windows\practica 16.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luis_\OneDrive\Escritorio\cosas de camilA\practicas programacion\Unidad 2\estructura selectiva\practica 16\obj\Debug\net8.0-windows\practica 16.AssemblyInfoInputs.cache
+C:\Users\luis_\OneDrive\Escritorio\cosas de camilA\practicas programacion\Unidad 2\estructura selectiva\practica 16\obj\Debug\net8.0-windows\practica 16.AssemblyInfo.cs
+C:\Users\luis_\OneDrive\Escritorio\cosas de camilA\practicas programacion\Unidad 2\estructura selectiva\practica 16\obj\Debug\net8.0-windows\practica 16.csproj.CoreCompileInputs.cache
+C:\Users\luis_\OneDrive\Escritorio\cosas de camilA\practicas programacion\Unidad 2\estructura selectiva\practica 16\obj\Debug\net8.0-windows\practica 16.dll
+C:\Users\luis_\OneDrive\Escritorio\cosas de camilA\practicas programacion\Unidad 2\estructura selectiva\practica 16\obj\Debug\net8.0-windows\refint\practica 16.dll
+C:\Users\luis_\OneDrive\Escritorio\cosas de camilA\practicas programacion\Unidad 2\estructura selectiva\practica 16\obj\Debug\net8.0-windows\practica 16.pdb
+C:\Users\luis_\OneDrive\Escritorio\cosas de camilA\practicas programacion\Unidad 2\estructura selectiva\practica 16\obj\Debug\net8.0-windows\practica 16.genruntimeconfig.cache
+C:\Users\luis_\OneDrive\Escritorio\cosas de camilA\practicas programacion\Unidad 2\estructura selectiva\practica 16\obj\Debug\net8.0-windows\ref\practica 16.dll
